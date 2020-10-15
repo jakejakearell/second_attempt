@@ -1,0 +1,9 @@
+food = "pizza"
+is_delicious = true
+food = "hamburger"
+num2 = 5
+num7 = 3.0
+quotient = num7 / num2
+song = ["here comes the sun", "who let the dogs out"]
+song.shift
+food.count
