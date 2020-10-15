@@ -1,0 +1,15 @@
+class Menu
+
+Attributes:
+
+menu_items = (hash)
+menu_color = (string)
+are_specials? = (boolean)
+item_cost = float
+
+Methods:
+
+change_color = re-assign string for menu_color
+remove_item = remove an item from the menu_items array
+check_deals = see if there are any specials then will change item item_cost accordinly
+add_item = adds an item to the menu array
