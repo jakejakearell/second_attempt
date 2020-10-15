@@ -1,0 +1,12 @@
+SeptemberMenu
+menu_items = {"soup":7.50, "fish":10.00, "pizza": 2.00}
+menu_color = "red"
+are_specials? = true
+item_cost = float
+
+Methods:
+
+change_color = "green"
+remove_item = ["pizza":2.00, "soup":7.50]
+check_deals = true pizza == 1.50
+add_item = {"soup":7.50, "fish":10.00, "pizza": 2.00, "duck":30.00}
