@@ -1,0 +1,17 @@
+class Table
+
+Attributes:
+cleaned = (boolean)
+can_seat_this_many = (interger)
+seated = (interger)
+names_of_customers_at_table = (array)
+
+Methods:
+add_customer = (would add name to array and add one to seated)
+
+restaurant_capacity_left = (would take all the data from instances of Table and
+subtract total number of seated from can_seat_this_many)
+
+will_seat = (checks if cleaned = true and then look for a table with enough seats for party)
+
+clear_table = (deletes names from array, change cleaned to false)
