@@ -1,0 +1,17 @@
+Table1
+
+Attributes:
+cleaned = true
+can_seat_this_many = 4
+seated = 3
+names_of_customers_at_table = ["Mike", "jake", "seth"]
+
+Methods:
+add_customer = names_of_customers_at_table = ["Mike", "jake", "seth", "richard"], seated = 4
+
+restaurant_capacity_left = 500-400  = 100
+
+
+will_seat = false
+
+clear_table = names_of_customers_at_table = [""], seated = 0
